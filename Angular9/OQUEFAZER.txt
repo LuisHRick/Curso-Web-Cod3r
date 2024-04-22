@@ -1,0 +1,1 @@
+dar npm start dentro do frontend e do backend
